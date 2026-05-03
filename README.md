@@ -74,8 +74,8 @@ http://<EC2-PUBLIC-IP>:3000
 
 ---
 
-## ⚠️ Note  
-AWS resources should be monitored to avoid unnecessary billing.
+## ⚠️ Note
+AWS resources should be monitored to avoid unnecessary billing.  
 Ensure required ports (e.g., 3000 or 80) are open in the EC2 security group.
 
 ---
